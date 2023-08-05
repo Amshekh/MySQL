@@ -1,3 +1,4 @@
 # relating repo with concerned language
 
+*.jpg linguist-detectable=true
 *.jpg linguist-language=sql
